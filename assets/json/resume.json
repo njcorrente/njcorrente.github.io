@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Nicholas J. Corrente",
-    "appointment": "Teaching Instructor",
+    "label": "Teaching Instructor",
     "email": "nicholas.corrente@rutgers.edu",
     "orcid": "0000-0001-5765-1806"
   },
@@ -105,4 +105,34 @@
       "awarder": "Rutgers University Department of Chemical and Biochemical Engineering"
     }
   ],
+  "service": {
+    "professional": [
+      {
+        "organization": "International Adsorption Society Education Committee",
+        "position": "Member",
+        "startDate": "2021",
+        "endDate": "Present"
+      },
+      {
+        "organization": "AIChE Area 2E",
+        "position": "Member/Session Chair",
+        "startDate": "2020",
+        "endDate": "Present"
+      }
+    ],
+    "community": [
+      {
+        "organization": "New Jersey Pancreatic Cancer Action Network",
+        "position": "Team Leader, Pursells Pack",
+        "startDate": "2013",
+        "endDate": "Present"
+      },
+      {
+        "organization": "Boy Scouts of America, Patriots' Path Council",
+        "position": "Lead Advisor, Venture Crew 890",
+        "startDate": "2015",
+        "endDate": "2025"
+      }
+    ]
+  }
 }
