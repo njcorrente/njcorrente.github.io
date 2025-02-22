@@ -44,16 +44,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-our-cover-art-associated-with-the-manuscript-deformation-of-nanoporous-carbons-induced-by-multicomponent-adsorption-insight-from-the-saft-dft-model-has-been-selected-as-a-front-cover-for-the-journal-of-physical-chemistry-c-see-cover",
+          title: 'Our cover art associated with the manuscript, Deformation of Nanoporous Carbons Induced By...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-nicholas-won-the-1st-place-best-poster-award-for-saft-dft-studies-of-nanoporous-carbon-deformation-induced-by-multicomponent-adsorption-presented-at-the-9th-characterization-of-porous-materials-conference",
+          title: 'Nicholas won the 1st-place best poster award for SAFT-DFT Studies of Nanoporous Carbon...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-nicholas-is-appointed-as-a-full-time-teaching-instructor-in-the-department-of-chemical-and-biochemical-engineering-at-rutgers-university",
+          title: 'Nicholas is appointed as a full-time Teaching Instructor in the Department of Chemical...',
+          description: "",
+          section: "News",},{id: "news-nicholas-successfully-defends-his-dissertation-titled-coupling-structural-adsorption-and-mechanical-properties-of-nanoporous-carbons-using-advanced-molecular-simulation-methods",
+          title: 'Nicholas successfully defends his dissertation titled “Coupling Structural, Adsorption, and Mechanical Properties of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
