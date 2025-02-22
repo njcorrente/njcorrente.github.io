@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Nicholas J. Corrente",
-    "label": "Teaching Instructor",
+    "appointment": "Teaching Instructor",
     "email": "nicholas.corrente@rutgers.edu",
     "orcid": "0000-0001-5765-1806"
   },
@@ -19,6 +19,7 @@
       "institution": "Rutgers University",
       "area": "Chemical Engineering",
       "studyType": "Master of Science",
+      "startDate": "2023-05",
       "endDate": "2023-05",
       "location": "New Brunswick, NJ, USA"
     },
@@ -26,6 +27,7 @@
       "institution": "New Jersey Institute of Technology",
       "area": "Chemical Engineering",
       "studyType": "Bachelor of Science",
+      "startDate": "2019-05",
       "endDate": "2019-05",
       "location": "Newark, NJ, USA"
     },
@@ -33,6 +35,7 @@
       "institution": "Seton Hall University",
       "area": "Chemistry",
       "studyType": "Bachelor of Science",
+      "startDate": "2016-08",
       "endDate": "2016-08",
       "location": "South Orange, NJ, USA"
     }
@@ -92,39 +95,14 @@
       "awarder": "Rutgers University Department of Chemical and Biochemical Engineering"
     },
     {
-      "title": "First Place Best Poster Award",
-      "date": "2024",
-      "awarder": "CPM-9"
+      "title": "EGC Professor of the Year Award",
+      "date": "2023",
+      "awarder": "Rutgers University"
+    },
+    {
+      "title": "Teaching Assistant Award",
+      "date": "2023",
+      "awarder": "Rutgers University Department of Chemical and Biochemical Engineering"
     }
   ],
-  "service": {
-    "professional": [
-      {
-        "organization": "International Adsorption Society Education Committee",
-        "position": "Member",
-        "startDate": "2021",
-        "endDate": "Present"
-      },
-      {
-        "organization": "AIChE Area 2E",
-        "position": "Member/Session Chair",
-        "startDate": "2020",
-        "endDate": "Present"
-      }
-    ],
-    "community": [
-      {
-        "organization": "New Jersey Pancreatic Cancer Action Network",
-        "position": "Team Leader, Pursells Pack",
-        "startDate": "2013",
-        "endDate": "Present"
-      },
-      {
-        "organization": "Boy Scouts of America, Patriots' Path Council",
-        "position": "Lead Advisor, Venture Crew 890",
-        "startDate": "2015",
-        "endDate": "2025"
-      }
-    ]
-  }
 }
