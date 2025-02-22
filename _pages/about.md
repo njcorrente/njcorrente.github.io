@@ -8,7 +8,7 @@ profile:
   align: right
   image: NCHeadshot.jpg
   image_circular: false
-  more_info: >
+<!--   more_info: > -->
 <!-- 
     <p style="font-size: clamp(0.7rem, 1vw, 1rem); white-space: nowrap;">Department of Chemical and Biochemical Engineering</p>
     <p style="font-size: clamp(0.7rem, 1vw, 1rem); white-space: nowrap;">Rutgers, The State University of New Jersey</p>
