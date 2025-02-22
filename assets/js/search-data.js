@@ -48,7 +48,7 @@ ninja.data = [{
           title: 'Our cover art associated with the manuscript, Deformation of Nanoporous Carbons Induced By...',
           description: "",
           section: "News",},{id: "news-nicholas-won-the-1st-place-best-poster-award-for-saft-dft-studies-of-nanoporous-carbon-deformation-induced-by-multicomponent-adsorption-presented-at-the-9th-characterization-of-porous-materials-conference",
-          title: 'Nicholas won the 1st-place best poster award for SAFT-DFT Studies of Nanoporous Carbon...',
+          title: 'Nicholas won the 1st-place best poster award for “SAFT-DFT Studies of Nanoporous Carbon...',
           description: "",
           section: "News",},{id: "news-nicholas-is-appointed-as-a-full-time-teaching-instructor-in-the-department-of-chemical-and-biochemical-engineering-at-rutgers-university",
           title: 'Nicholas is appointed as a full-time Teaching Instructor in the Department of Chemical...',
