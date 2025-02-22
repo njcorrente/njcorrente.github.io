@@ -7,12 +7,12 @@ permalink: /
 profile:
   align: right
   image: NCHeadshot.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>Department of Chemical and Biochemical Engineering</p>
-    <p>Rutgers, The State University of New Jersey</p>
-    <p>98 Brett Road, C-162</p>
-    <p>Piscataway, NJ 08854, USA</p>
+    <p style="font-size: clamp(0.7rem, 2vw, 1rem); white-space: nowrap;">Department of Chemical and Biochemical Engineering</p>
+    <p style="font-size: clamp(0.7rem, 2vw, 1rem); white-space: nowrap;">Rutgers, The State University of New Jersey</p>
+    <p style="font-size: clamp(0.7rem, 2vw, 1rem); white-space: nowrap;">98 Brett Road, C-162</p>
+    <p style="font-size: clamp(0.7rem, 2vw, 1rem); white-space: nowrap;">Piscataway, NJ 08854, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
