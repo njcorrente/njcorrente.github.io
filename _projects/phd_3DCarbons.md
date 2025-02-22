@@ -29,7 +29,7 @@ The models were created using Annealed Molecular Dynamics with the extended EDIP
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Figure1_1Column.png" title="Carbon Structures" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Figure1_1Column.png" title="Carbon Structures" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
