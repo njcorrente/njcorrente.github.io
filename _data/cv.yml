@@ -38,28 +38,6 @@
       institution: Seton Hall University
       year: 2016
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Chemical and Biochemical Engineering
-      institution: Rutgers University
-      year: 2024
-      description:
-        - "Advisor: Professor Alexander V. Neimark"
-        - "Thesis: Coupling Structural, Adsorption, and Mechanical Properties of Nanoporous Carbons Using Advanced Molecular Simulation Methods"
-    
-    - title: MS in Chemical Engineering
-      institution: Rutgers University
-      year: 2023
-    
-    - title: BS in Chemical Engineering
-      institution: New Jersey Institute of Technology
-      year: 2019
-    
-    - title: BS in Chemistry
-      institution: Seton Hall University
-      year: 2016
-
 - title: Experience
   type: time_table
   contents:
@@ -92,7 +70,6 @@
         - "Rutgers University CBE Outstanding Faculty Award"
         - "Rutgers University EGC Professor of the Year Award"
         - "Rutgers University CBE-GSO Researcher-Scholar Award"
-        - "CPM-9 First Place Best Poster Award"
     
     - year: 2023
       description:
