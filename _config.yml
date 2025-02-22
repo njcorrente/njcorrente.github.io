@@ -194,6 +194,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  -_projects/project_[4-7].md
 keep_files:
   - CNAME
   - .nojekyll
@@ -268,7 +269,7 @@ terser:
 
 scholar:
   last_name: [Corrente]
-  first_name: [Nicholas]
+  first_name: [Nicholas J]
 
   style: apa
   locale: en
