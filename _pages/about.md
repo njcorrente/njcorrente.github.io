@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+<!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: NCHeadshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Chemical and Biochemical Engineering</p>
+    <p>Rutgers, The State University of New Jersey</p>
+    <p>98 Brett Road, C-162</p>
+    <p>Piscataway, NJ 08854, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Teaching Instructor in the [Department of Chemical and Biochemical Engineering](cbe.rutgers.edu) at [Rutgers University - New Brunswick](rutgers.edu).  I received my Ph.D. in Chemical and Biochemical Engineering from Rutgers University in December 2024, under the supervision of Prof. [Alexander V. Neimark](http://sol.rutgers.edu/~aneimark/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on molecular modeling of nanoporous materials, particularly investigating the relationships between structural, adsorption, and mechanical properties of nanoporous carbons. I develop and apply advanced molecular simulation methods to understand complex phenomena in these materials. During my Ph.D., I also collaborated with ExxonMobil Technology and Engineering Company as an NSF INTERN.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As an educator, I am passionate about teaching chemical engineering fundamentals and computational methods. I currently teach courses in Material and Energy Balances, Thermodynamics, and Computational Methods, striving to create an engaging and effective learning environment for my students.

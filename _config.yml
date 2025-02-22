@@ -89,15 +89,15 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # blog_description: a simple whitespace theme for academics
 # permalink: /blog/:year/:title/
 # lsi: false # produce an index for related posts
-# 
+ 
 # # Pagination
 # pagination:
 #   enabled: true
-# 
+ 
 # related_blog_posts:
 #   enabled: true
 #   max_related: 5
-# 
+ 
 # # Giscus comments (RECOMMENDED)
 # # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 # giscus:
@@ -112,11 +112,11 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 #   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
 #   emit_metadata: 0
 #   lang: en
-# 
+ 
 # # Disqus comments (DEPRECATED)
 # disqus_shortname: al-folio # put your disqus shortname
 # # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-# 
+ 
 # # External sources.
 # # If you have blog posts published on medium.com or other external sources,
 # # you can display them in your blog by adding a link to the RSS feed.
@@ -257,7 +257,7 @@ terser:
 #     year: "/blog/:year/"
 #     tag: "/blog/tag/:name/"
 #     category: "/blog/category/:name/"
-# 
+ 
 # display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 # display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
