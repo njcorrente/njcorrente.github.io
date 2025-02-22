@@ -1,13 +1,20 @@
 - title: Basic Information
   type: map
   contents:
-    Name: Nicholas J. Corrente, PhD
-    Position: Teaching Instructor
-    Department: Department of Chemical and Biochemical Engineering
-    Institution: Rutgers University
-    Email: '<a href="mailto:nicholas.corrente@rutgers.edu">nicholas.corrente@rutgers.edu</a>'
-    Address: 98 Brett Road, C-162, Piscataway, NJ 08854, USA
-    ORCID: '<a href="https://orcid.org/0000-0001-5765-1806">0000-0001-5765-1806</a>'
+    - name: Name
+      value: Nicholas J. Corrente, PhD
+    - name: Position
+      value: Teaching Instructor
+    - name: Department
+      value: Department of Chemical and Biochemical Engineering
+    - name: Institution
+      value: Rutgers University
+    - name: Email
+      value: '<a href="mailto:nicholas.corrente@rutgers.edu">nicholas.corrente@rutgers.edu</a>'
+    - name: Address
+      value: 98 Brett Road, C-162, Piscataway, NJ 08854, USA
+    - name: ORCID
+      value: '<a href="https://orcid.org/0000-0001-5765-1806">0000-0001-5765-1806</a>'
 
 - title: Education
   type: time_table
