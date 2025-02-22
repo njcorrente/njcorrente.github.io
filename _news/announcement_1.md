@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Nicholas won the 1st-place best poster award for SAFT-DFT Studies of Nanoporous Carbon Deformation Induced by Multicomponent Adsorption, Presented at the 9th Characterization of Porous Materials Conference.
+Nicholas won the 1st-place best poster award for "SAFT-DFT Studies of Nanoporous Carbon Deformation Induced by Multicomponent Adsorption"", presented at the 9th Characterization of Porous Materials Conference.
