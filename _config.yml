@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Corrente]
+  first_name: [Nicholas J.]
 
   style: apa
   locale: en
@@ -284,7 +284,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: type,year
   group_order: descending
 
 # Display different badges withs stats for your publications
