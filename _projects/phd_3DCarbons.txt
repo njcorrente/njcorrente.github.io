@@ -1,0 +1,70 @@
+---
+layout: page
+title: 3D Carbon Models for Adsorption Characterization
+description: Developed 3D molecular models to predict adsorption of fluids and hydrocarbons on nanoporous carbons
+img: assets/img/3D_Isotherm.jpg
+importance: 1
+category: phd
+related_publications: true
+---
+
+This project explored the capabilities of 3D molecular models for predicting adsorption behavior in nanoporous carbon materials - an important area for developing adsorption separations, membrane technologies, and oil/gas recovery from shale reservoirs.
+
+### Key Contributions
+
+- Demonstrated that 3D molecular models can accurately reproduce morphological and adsorption properties of practical carbon adsorbents
+- Constructed adsorption isotherms using grand canonical Monte Carlo simulations for:
+  - Simple fluids (N₂, Ar, CO₂, SO₂)
+  - Alkane series from methane to hexane
+- Showed outstanding agreement between simulated and experimental adsorption data for commercial Norit R1 Extra activated carbon
+- Validated simulation results against experimental isosteric heats
+
+### Technical Details
+
+We examined two distinct 3D carbon models:
+- Structure A: Purely microporous (<2nm pores)
+- Structure B: Mixed micro-mesoporous structure
+
+The models were created using Annealed Molecular Dynamics with the extended EDIP forcefield. Each structure contained 32,000 carbon atoms in periodic boxes.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Figure1_1Column.png" title="Carbon Structures" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Comparison of Structure A (left) and Structure B (right) showing different pore distributions
+</div>
+
+### Key Findings
+
+1. **Structural Validation**
+   - BET surface areas and pore volumes from simulations matched experimental measurements
+   - Pore size distributions aligned well with geometric calculations
+
+2. **Adsorption Prediction**
+   - Excellent agreement between simulated and experimental isotherms for N₂, CO₂
+   - Strong correlation for hydrocarbon adsorption, especially for shorter chain lengths
+   - Accurate prediction of isosteric heats across different adsorbates
+
+3. **Model Applications**
+   - Demonstrated potential for screening optimal carbon structures
+   - Framework for predicting mixture adsorption behavior
+   - Platform for investigating surface chemistry modifications
+
+### Impact
+
+This work provides a new approach for characterizing and predicting adsorption behavior in nanoporous carbons. The validated molecular models offer a powerful tool for:
+- Designing improved adsorbents
+- Optimizing separation processes
+- Understanding fundamental adsorption mechanisms
+
+The models can be extended to incorporate functional groups and chemical modifications, enabling rational design of specialized adsorbents for specific applications.
+
+### Methods
+- Grand Canonical Monte Carlo (GCMC) simulations
+- Molecular dynamics
+- Geometric characterization (PoreBlazer v4.0)
+- Standard adsorption characterization methods (BET, NLDFT, QSDFT)
+
+This research advances our understanding of carbon adsorbent materials and provides valuable tools for their continued development and optimization.
