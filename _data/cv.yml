@@ -5,9 +5,9 @@
       position: Teaching Instructor
       department: Department of Chemical and Biochemical Engineering
       institution: Rutgers University
-      email: nicholas.corrente@rutgers.edu
+      email: <a href="mailto:nicholas.corrente@rutgers.edu">nicholas.corrente@rutgers.edu</a>
       address: 98 Brett Road, C-162, Piscataway, NJ 08854, USA
-      orcid: 0000-0001-5765-1806
+      orcid: <a href="https://orcid.org/0000-0001-5765-1806">0000-0001-5765-1806</a>
 
 - title: Education
   type: time_table
