@@ -56,7 +56,12 @@ ninja.data = [{
           section: "News",},{id: "news-nicholas-successfully-defends-his-dissertation-titled-coupling-structural-adsorption-and-mechanical-properties-of-nanoporous-carbons-using-advanced-molecular-simulation-methods",
           title: 'Nicholas successfully defends his dissertation titled “Coupling Structural, Adsorption, and Mechanical Properties of...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-3d-carbon-models-for-adsorption-characterization",
+          title: '3D Carbon Models for Adsorption Characterization',
+          description: "Developed 3D molecular models to predict adsorption of fluids and hydrocarbons on nanoporous carbons",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/phd_3DCarbons/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
