@@ -4,7 +4,7 @@ title: Hybrid MC/MD Simulations of Carbon Deformation
 description: Developed novel simulation approach combining Monte Carlo and Molecular Dynamics to predict how nanoporous carbons deform during gas adsorption
 img: assets/img/MDMC_Graphic.png
 importance: 1
-category: research
+category: phd
 related_publications: true
 ---
 

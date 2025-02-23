@@ -4,7 +4,7 @@ title: Predicting Coal Deformation During Gas Adsorption
 description: Developed thermodynamic models to predict coal swelling during CO2-enhanced methane recovery
 img: assets/img/Coal_Deform.jpeg
 importance: 4
-category: research
+category: phd
 related_publications: true
 ---
 

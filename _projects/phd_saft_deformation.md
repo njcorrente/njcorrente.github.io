@@ -4,7 +4,7 @@ title: SAFT-DFT Modeling of Deformation During Binary Gas Adsorption
 description: Developed models integrating SAFT-DFT and GCMC simulations to predict carbon deformation during CO₂/CH₄ adsorption
 img: assets/img/saft-dft.png
 importance: 2
-category: research
+category: phd
 related_publications: true
 ---
 
