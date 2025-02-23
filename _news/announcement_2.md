@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Nicholas is appointed as a full-time Teaching Instructor in the Department of Chemical and Biochemical Engineering at Rutgers University.
+NJC appointed as a full-time Teaching Instructor in the Department of Chemical and Biochemical Engineering at Rutgers University.

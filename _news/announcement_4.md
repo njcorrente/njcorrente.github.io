@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Nicholas successfully defends his dissertation titled "Coupling Structural, Adsorption, and Mechanical Properties of Nanoporous Carbons Using Advanced Molecular Simulation Methods."
+NJC successfully defends his dissertation titled "Coupling Structural, Adsorption, and Mechanical Properties of Nanoporous Carbons Using Advanced Molecular Simulation Methods."
