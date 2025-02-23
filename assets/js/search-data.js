@@ -112,6 +112,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=G7dbblQAAAAJ", "_blank");
         },
       },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://cbe.rutgers.edu/people/nicholas-corrente", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
