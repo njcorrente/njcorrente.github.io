@@ -3,12 +3,12 @@ layout: page
 title: 3D Carbon Models for Adsorption Characterization
 description: Developed 3D molecular models to predict adsorption of fluids and hydrocarbons on nanoporous carbons
 img: assets/img/3D_Isotherm.jpg
-importance: 1
+importance: 3
 category: phd
 related_publications: true
 ---
 
-This project explored the capabilities of 3D molecular models for predicting adsorption behavior in nanoporous carbon materials - an important area for developing adsorption separations, membrane technologies, and oil/gas recovery from shale reservoirs.
+This project {% cite corrente2022modeling %} explored the capabilities of 3D molecular models for predicting adsorption behavior in nanoporous carbon materials - an important area for developing adsorption separations, membrane technologies, and oil/gas recovery from shale reservoirs.
 
 ### Key Contributions
 
