@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -61,6 +61,21 @@ ninja.data = [{
           description: "Developed 3D molecular models to predict adsorption of fluids and hydrocarbons on nanoporous carbons",
           section: "Projects",handler: () => {
               window.location.href = "/projects/phd_3DCarbons/";
+            },},{id: "projects-predicting-coal-deformation-during-gas-adsorption",
+          title: 'Predicting Coal Deformation During Gas Adsorption',
+          description: "Developed thermodynamic models to predict coal swelling during CO2-enhanced methane recovery",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/phd_coal_deformation/";
+            },},{id: "projects-hybrid-mc-md-simulations-of-carbon-deformation",
+          title: 'Hybrid MC/MD Simulations of Carbon Deformation',
+          description: "Developed novel simulation approach combining Monte Carlo and Molecular Dynamics to predict how nanoporous carbons deform during gas adsorption",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/phd_hybrid/";
+            },},{id: "projects-saft-dft-modeling-of-deformation-during-binary-gas-adsorption",
+          title: 'SAFT-DFT Modeling of Deformation During Binary Gas Adsorption',
+          description: "Developed models integrating SAFT-DFT and GCMC simulations to predict carbon deformation during CO₂/CH₄ adsorption",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/phd_saft_deformation/";
             },},{
         id: 'social-email',
         title: 'email',
