@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "news-our-cover-art-associated-with-the-manuscript-deformation-of-nanoporous-carbons-induced-by-multicomponent-adsorption-insight-from-the-saft-dft-model-has-been-selected-as-a-front-cover-for-the-journal-of-physical-chemistry-c-see-cover",
           title: 'Our cover art associated with the manuscript, Deformation of Nanoporous Carbons Induced By...',
           description: "",
