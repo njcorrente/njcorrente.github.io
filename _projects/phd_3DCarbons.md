@@ -8,7 +8,7 @@ category: phd
 related_publications: true
 ---
 
-This project {% cite corrente2022modeling %} explored the capabilities of 3D molecular models for predicting adsorption behavior in nanoporous carbon materials - an important area for developing adsorption separations, membrane technologies, and oil/gas recovery from shale reservoirs.
+This project {% cite CORRENTE2022526 %} explored the capabilities of 3D molecular models for predicting adsorption behavior in nanoporous carbon materials - an important area for developing adsorption separations, membrane technologies, and oil/gas recovery from shale reservoirs.
 
 ### Key Contributions
 

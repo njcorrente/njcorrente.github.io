@@ -8,7 +8,7 @@ category: phd
 related_publications: true
 ---
 
-This project {% cite corrente2021deformation %} developed a novel thermodynamic approach to predict how nanoporous materials deform when exposed to gas mixtures, with particular focus on coal swelling during CO2-enhanced methane recovery - a promising technique for both natural gas production and carbon sequestration.
+This project {% cite doi:10.1021/acs.jpcc.1c07363 %} developed a novel thermodynamic approach to predict how nanoporous materials deform when exposed to gas mixtures, with particular focus on coal swelling during CO2-enhanced methane recovery - a promising technique for both natural gas production and carbon sequestration.
 
 ### Key Contributions
 

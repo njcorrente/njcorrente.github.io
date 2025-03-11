@@ -8,7 +8,7 @@ category: phd
 related_publications: true
 ---
 
-This project introduced an innovative hybrid Monte Carlo/Molecular Dynamics (MC/MD) simulation methodology to study how nanoporous carbons deform when exposed to gases - crucial for applications in carbon capture, gas storage, and enhanced natural gas recovery.
+This project {% cite CORRENTE2025120160 %} introduced an innovative hybrid Monte Carlo/Molecular Dynamics (MC/MD) simulation methodology to study how nanoporous carbons deform when exposed to gases - crucial for applications in carbon capture, gas storage, and enhanced natural gas recovery.
 
 ### Key Innovations
 

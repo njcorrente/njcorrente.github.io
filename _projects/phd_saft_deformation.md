@@ -8,7 +8,7 @@ category: phd
 related_publications: true
 ---
 
-This project {% cite corrente2024deformation %} developed an innovative approach combining Statistical Associating Fluid Theory with Density Functional Theory (SAFT-DFT) and Grand Canonical Monte Carlo (GCMC) simulations to predict how nanoporous carbons deform during binary gas adsorption - crucial for applications in carbon capture and enhanced gas recovery.
+This project {% cite doi:10.1021/acs.jpcc.4c00833 %} developed an innovative approach combining Statistical Associating Fluid Theory with Density Functional Theory (SAFT-DFT) and Grand Canonical Monte Carlo (GCMC) simulations to predict how nanoporous carbons deform during binary gas adsorption - crucial for applications in carbon capture and enhanced gas recovery.
 
 ### Key Innovations
 
