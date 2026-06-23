@@ -32,6 +32,12 @@ $$
 PV = nRT
 $$
 
+and Boyle's law:
+
+$$
+P_{1}V_{1} = P_{2}V_{2}
+$$
+
 By holding temperature and the amount of gas roughly constant, students see Boyle's law in action: as pressure drops, volume rises.
 
 <div class="row">
@@ -40,7 +46,7 @@ By holding temperature and the amount of gas roughly constant, students see Boyl
     </div>
 </div>
 <div class="caption">
-    A marshmallow at atmospheric pressure (left) and under reduced pressure (right)
+    Marshmallows under decreasing pressure in a vacuum chamber exhibiting initial swelling (pre-rupture) and subsequent contraction (post-rupture).
 </div>
 
 ---
@@ -93,15 +99,15 @@ The coupler adapts a standard hand pump to the vacuum chamber. Print in PLA or P
 
 1. **Setup** — Attach the 3D-printed coupler to the vacuum chamber and connect the pump.
 2. **Baseline measurement** — Measure and record the marshmallow's dimensions at atmospheric pressure.
-3. **Evacuate** — Slowly reduce the pressure, pausing at intervals to record pressure and marshmallow size.
+3. **Evacuate** — Slowly reduce the pressure, pausing just before rupture to record pressure and marshmallow size. Proceed to rupture.
 4. **Restore** — Return to atmospheric pressure and observe the collapse.
-5. **Analyze** — Use the template to plot volume against pressure and discuss the inverse relationship.
+5. **Analyze** — Use the template to calculate marshmallow/gelatin volume, density, rupture pressure.
 
 *<!-- Expand each step with timing, safety notes, and facilitation tips. -->*
 
 ### Facilitation Notes & Tips
 
-- Works well as a small-group station rotation in a larger FYED session
+- Works well as a small-group activity in a FYED session
 - Fresh marshmallows respond more dramatically than stale ones
 - Encourage students to predict before they evacuate, then compare to what they observe
 
