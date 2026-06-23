@@ -80,21 +80,6 @@ The coupler adapts a standard hand pump to the vacuum chamber. Print in PLA or P
 
 - 🖨️ **[Download coupler STL]({{ '/assets/files/marshmallow_coupler.stl' | relative_url }})**
 
-*<!-- Place the .stl file at assets/files/ and add recommended print settings (layer height, infill) here. -->*
-
-<!-- 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/coupler_render.png" title="3D-printed coupler" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Rendering of the 3D-printed pump-to-chamber coupler
-</div>
- -->
-
----
-
 ### Step-by-Step Procedure
 
 1. **Setup** — Attach the 3D-printed coupler to the vacuum chamber and connect the pump.
