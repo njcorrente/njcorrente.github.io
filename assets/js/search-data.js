@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Hands-on activities and instructional materials, shared for reuse.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -94,6 +94,11 @@ ninja.data = [{
           description: "Developed models integrating SAFT-DFT and GCMC simulations to predict carbon deformation during CO₂/CH₄ adsorption",
           section: "Projects",handler: () => {
               window.location.href = "/projects/phd_saft_deformation/";
+            },},{id: "teaching-ideal-gas-laws-you-can-eat",
+          title: 'Ideal Gas Laws You Can Eat',
+          description: "A hands-on first-year activity using marshmallows under vacuum to introduce pressure, volume, and the ideal gas law",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/teaching_Marshmallow/";
             },},{
         id: 'social-email',
         title: 'email',
