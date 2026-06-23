@@ -36,7 +36,7 @@ By holding temperature and the amount of gas roughly constant, students see Boyl
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/marshmallow_before_after.jpg" title="Marshmallow expansion under vacuum" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/gif/Marshmallow_Take2.gif" title="Marshmallow expansion under vacuum" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -64,7 +64,7 @@ By holding temperature and the amount of gas roughly constant, students see Boyl
 
 A pre-formatted spreadsheet for students to log pressure readings and corresponding marshmallow dimensions, with built-in columns for calculating volume change.
 
-- 📊 **[Download data-collection template (.xlsx)]({{ '/assets/files/ideal_gas_data_template.xlsx' | relative_url }})**
+- 📊 **[Download data-collection template (.xlsx)]({{ 'assets/xlsx/CBE_Spreadsheet_Fall_2025.xlsx' | relative_url }})**
 
 *<!-- Place the .xlsx file at assets/files/ and confirm the filename matches. -->*
 
@@ -76,6 +76,7 @@ The coupler adapts a standard hand pump to the vacuum chamber. Print in PLA or P
 
 *<!-- Place the .stl file at assets/files/ and add recommended print settings (layer height, infill) here. -->*
 
+<!-- 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/coupler_render.png" title="3D-printed coupler" class="img-fluid rounded z-depth-1" %}
@@ -84,6 +85,7 @@ The coupler adapts a standard hand pump to the vacuum chamber. Print in PLA or P
 <div class="caption">
     Rendering of the 3D-printed pump-to-chamber coupler
 </div>
+ -->
 
 ---
 
